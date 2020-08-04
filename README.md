@@ -1,4 +1,3 @@
 # calculator
-Calculator Exercise using HTML, CSS &amp; JavaScript
+Calculator App using Vanilla JavaScript
 
-Link to GitHub page - https://oluwoledada.github.io/calculator/
